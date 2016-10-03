@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IN-fo</string>
+    <string name="battery">Batteri</string>
+    <string name="percent">Prosent</string>
+    <string name="action_settings">Innstillinger</string>
+    <string name="appwidget_text">Batteri-IN-fo</string>
+    <string name="phone">Enhet</string>
+</resources>
